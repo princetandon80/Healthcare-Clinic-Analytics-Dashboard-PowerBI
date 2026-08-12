@@ -1,0 +1,20 @@
+Title: Clinic Analysis - Case 56
+
+Objective:
+This case study focuses on the Clinic industry and aims to provide students with a comprehensive understanding of business performance analysis. The dataset includes operational, financial, and customer-related attributes such as pricing, cost, discounts, regional data, customer type, and service channels. Students are expected to analyze patterns in revenue generation, profitability, and customer behavior.
+
+Through this exercise, learners will explore how different factors like region, category, pricing strategy, and customer preferences impact overall business outcomes. The case simulates real-world decision-making scenarios where businesses must balance cost efficiency, customer satisfaction, and revenue growth. By building dashboards in Power BI or Tableau, students will identify trends, detect anomalies, and derive actionable insights.
+
+Additionally, this case helps learners practice creating calculated fields and KPIs, enabling them to measure performance effectively. It encourages critical thinking and data storytelling skills essential for business analytics roles.
+
+Charts:
+- Donut Chart: Payment Mode Share
+- Heatmap: Profit by Category & Region
+- Scatter Plot: Cost vs Profit
+- Tree Map: Category Contribution
+
+Measures:
+- Return % = COUNT(Returns='Yes')/COUNT(ID)
+- Total Profit = SUM(Profit)
+- Discount Impact = SUM(Discount)
+- Max Revenue = MAX(Revenue)
